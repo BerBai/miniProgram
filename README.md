@@ -6,4 +6,4 @@
 
 ### 查看源码 👉 [code](https://github.com/smartBBer/pay/blob/master/pay.html)
 
-![我的三合一码](https://github.com/smartBBer/pay/blob/master/%E4%B8%89%E5%90%88%E4%B8%80%E7%A0%81.jpg)
+![我的三合一码](https://github.com/smartBBer/pay/blob/master/img/%E4%B8%89%E5%90%88%E4%B8%80%E7%A0%81.jpg)
